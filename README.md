@@ -1,4 +1,17 @@
-# Hello World! This is Malcano's Github ☕️
+
+
+<div align=center>
+  
+  
+  <h1>
+    Malcano's Github ☕️<br><br> 
+    안녕하세요!<br>Hello!<br>こんにちは！<br><br>
+  </h1>
+  
+</div>
+
+
+
 #### Major: International Trade & Software engineering
 ###### \#한국어 \#English \#日本語 
 
@@ -19,8 +32,8 @@
   <br>
 
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcano&show_icons=true&theme=radical)
 
+# ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malcano&show_icons=true&theme=radical)
 
 <h3>And also I can use</h3>
 <div align = left>
@@ -33,3 +46,5 @@
  
  ## Contact
 steveleemh@gmail.com
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmalcano%2F&count_bg=%23FF3096&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
