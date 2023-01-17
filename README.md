@@ -9,7 +9,8 @@
 </div>
 
 
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="marupedia" data-version="v1"><a  
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marupedia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/marupedia?trk=profile-badge">Min Ho Lee</a></div>
+             
 #### Major: International Trade & Software engineering
 ###### \#한국어 \#English \#日本語 
 
