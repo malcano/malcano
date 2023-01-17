@@ -30,9 +30,9 @@
   <br>
 
 </div>
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcano&show_icons=true&theme=radical)
--->
+
 
 <h3>And also I can use</h3>
 <div align = left>
